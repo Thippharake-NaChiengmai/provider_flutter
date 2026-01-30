@@ -1,16 +1,12 @@
 # provider_flutter
 
-A new Flutter project.
+Name: __Thippharake Na Chiengmai__ Code: __662115019__
+ 
+🔴***Only for submit activities of 953464-Mobile App Dev***🔴
 
-## Getting Started
+## Provider Flutter Challenge
+<img width="433" height="876" alt="image" src="https://github.com/user-attachments/assets/33d88e60-6079-4868-8eaf-aec10ddfa7ea" />
 
-This project is a starting point for a Flutter application.
+<img width="420" height="858" alt="image" src="https://github.com/user-attachments/assets/c0196a8e-1a06-4f66-9456-ecac7506ff77" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="420" height="864" alt="image" src="https://github.com/user-attachments/assets/1faa1bfe-60a3-4281-894b-68ae005ffcc3" />
